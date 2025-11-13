@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 可选: "daily"|"incremental"|"current"
+  mode: "current" # 可选: "daily"|"incremental"|"current"
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -99,3 +99,9 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "xiaohongshu"
+    name: "小红书"
+  - id: "reddit"
+    name: "reddit"
+  - id: "google"
+    name: "谷歌"
