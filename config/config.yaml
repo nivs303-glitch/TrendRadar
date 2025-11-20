@@ -102,8 +102,6 @@ platforms:
     name: "华尔街见闻 最新"
   - id: "cls-hot"
     name: "财联社热门"
-  - id: "gelonghui"
-    name: "格隆汇"
   - id: "xueqiu"
     name: "雪球"
   - id: "jin10"
@@ -111,7 +109,7 @@ platforms:
   - id: "fastbull"
     name: "快讯通"
 
-  # === 社交/短视频/娱乐类 ===
+
   - id: "weibo"
     name: "微博"
   - id: "bilibili-hot-search"
@@ -120,7 +118,5 @@ platforms:
     name: "知乎"
 
 
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
+
 
