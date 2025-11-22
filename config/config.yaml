@@ -110,7 +110,6 @@ platforms:
     name: "快讯通"
  - id: "douban"
     name: "豆瓣"
-    name: "快讯通"
   - id: "weibo"
     name: "微博"
   - id: "bilibili-hot-search"
